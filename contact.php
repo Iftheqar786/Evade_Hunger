@@ -26,6 +26,7 @@
 	.button:hover {
 		background-color: #ddd;
 		color: black;
+		
 	}
 
 </style>
